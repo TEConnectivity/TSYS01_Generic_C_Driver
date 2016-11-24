@@ -1,5 +1,5 @@
 # TSYS01 Generic C Driver
-Arduino library for the [TSYS01 sensor](http://www.te.com/usa-en/product-G-NICO-018.html)
+Generic C driver for the [TSYS01 sensor](http://www.te.com/usa-en/product-G-NICO-018.html)
 
 ![tsys01](http://www.te.com/content/dam/te-com/catalog/part/0GN/ICO/018/G-NICO-018-t1.jpg/jcr:content/renditions/product-details.png)
 
